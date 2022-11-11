@@ -11,10 +11,6 @@ public class Uyg1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.uyg1_activity);
 
-        main();
-    }
-
-    public static void main() {
         boolean degisken1 = true;
         boolean degisken2 = false;
         System.out.println(degisken1);
