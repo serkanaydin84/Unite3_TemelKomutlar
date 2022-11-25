@@ -42,6 +42,7 @@ public class Uyg7Activity extends AppCompatActivity {
                 System.out.println("Mod Alma: " + mod);
                 System.out.println("Artırma: " + x);
                 System.out.println("Azaltma: " + y);
+                System.out.println("-------------------------");
             }
         });
     }

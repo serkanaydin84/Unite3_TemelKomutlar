@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         btnUyg4 = findViewById(R.id.btnUyg4);
         btnUyg5 = findViewById(R.id.btnUyg5);
         btnUyg6 = findViewById(R.id.btnUyg6);
-        btnUyg6 = findViewById(R.id.btnUyg7);
+        btnUyg7 = findViewById(R.id.btnUyg7);
 
         btnUyg1.setOnClickListener(new View.OnClickListener() {
             @Override
