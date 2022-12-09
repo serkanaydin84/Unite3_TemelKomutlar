@@ -11,7 +11,7 @@
     <string name="uyg9_name">Uygulama 9 (Karşılaştırma Operatörler)</string>
     <string name="uyg10_name">Uygulama 10 (Mantıksal Operatörler)</string>
     <string name="uyg11_name">Uygulama 11 (Logcat Hata Ayıklama)</string>
-    <string name="uyg12_name">Uygulama 12</string>
+    <string name="uyg12_name">Uygulama 12 (Try-Catch)</string>
 
     <string name="hint_sayi_gir">Bir sayı giriniz</string>
 </resources>
